@@ -1,2 +1,2 @@
 # java-learning
-This repository is created to document all java practice examples
+Information: This repository is created to document all java practice examples
